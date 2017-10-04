@@ -292,6 +292,11 @@ module Jira
             'x64' => 'ba23f268aff987d6110406dc0d2fa4658c6584db7586755f4fa30cb1a01ae43f'
           }
         },
+        '7.5.0' => {
+          'software' => {
+            'x64' => 'a915f273513250b33f7fd4b54786fac82356ff1b30feec4282fa9641d327e196'
+          }
+        },
         '3.2.0' => {
           'servicedesk' => {
             'x32' => '098bc88803aed26940a79f37108f1706a062229922950d22ee40c5903644c60e',
@@ -309,6 +314,11 @@ module Jira
             'x64' => '0afa1a15ab1a6349b65db16cbf17276b22e1c2caa9150cc99a33ffb2b9b61958'
           }
         },
+        '3.8.1' => {
+          'servicedesk' => {
+            'x64' => '239c3223dee99921874c65d164a2e6037665f5933537ba4b76d70beb6c73fc52'
+          }
+        }
       }
     end
     # rubocop:enable Metrics/MethodLength
