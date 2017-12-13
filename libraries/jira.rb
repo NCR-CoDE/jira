@@ -318,6 +318,11 @@ module Jira
           'servicedesk' => {
             'x64' => '239c3223dee99921874c65d164a2e6037665f5933537ba4b76d70beb6c73fc52'
           }
+        },
+        '3.9.1' => {
+          'servicedesk' => {
+            'x64' => 'a6d3b7513b6ce4e8b2a9d7d544cfa6d36270a21a8bf204e3e1d3cdfc1263e1df'
+          }
         }
       }
     end
